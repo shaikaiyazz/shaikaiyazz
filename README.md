@@ -4,7 +4,6 @@
 
 **Location:** Riyadh, Saudi Arabia  
 **Email:** eng.shaikaiyazz@gmail.com  
-**Phone:** +966 536613261  
 **LinkedIn:** linkedin.com/in/shaikaiyaz
 
 ---
@@ -86,7 +85,6 @@ Here are some things I'm working on:
 ## 📞 Contact Me
 
 - **Email:** eng.shaikaiyazz@gmail.com
-- **Phone:** +966 536613261
 - **LinkedIn:** linkedin.com/in/shaikaiyaz
 - **Location:** Riyadh, Saudi Arabia
 
