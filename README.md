@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.png" width="100%">
+</p>
+
 # 👋 Hi, I'm Shaik Aiyaz
 
 ### 🐧 Linux Systems Administrator | Infrastructure Engineer | Automation Enthusiast
